@@ -32,7 +32,7 @@ API: https://www.tvmaze.com/api
 
 <img src="https://user-images.githubusercontent.com/69635164/124920555-27b56100-e017-11eb-90ff-077ff61978ef.jpg" height="600"/>
 
-## Favourites
+## Favourites 
 
 <img src="https://user-images.githubusercontent.com/69635164/124920568-2ab05180-e017-11eb-927a-49018be69a7a.jpg" height="600"/>
 
