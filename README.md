@@ -2,6 +2,9 @@
 
 The application allows the users to search TV shows and gain detail information about those shows. The user can also see the episodes list and details of each episodes of the TV shows. There is also a favourites section where the user can store their favourite show by maring them as favourites.
 
+For state management, I have used Provider package in this application. The data is fetched from an external API containing information about TV shows. For storing favourite shows, SQLite database is used. sqflite package is used for this purpose.
+
+
 API: https://www.tvmaze.com/api
 
 __Search page__
