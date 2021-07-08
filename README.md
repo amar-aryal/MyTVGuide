@@ -1,16 +1,30 @@
 # MyTVGuide
 
-A new Flutter project.
+The application allows the users to search TV shows and gain detail information about those shows. The user can also see the episodes list and details of each episodes of the TV shows. There is also a favourites section where the user can store their favourite show by maring them as favourites.
 
-## Getting Started
+API: https://www.tvmaze.com/api
 
-This project is a starting point for a Flutter application.
+__Search page__
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/69635164/124920049-a231b100-e016-11eb-907a-966ab1e5a984.jpg" height="600"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+__Search results__
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/69635164/124920066-a8c02880-e016-11eb-864d-27ca4c9612d4.jpg" height="600"/>
+
+__Show details__
+
+<img src="https://user-images.githubusercontent.com/69635164/124920102-b2499080-e016-11eb-8c87-220d75d846fc.jpg" height="600"/>
+
+__Episodes list__
+
+<img src="https://user-images.githubusercontent.com/69635164/124920518-1ec48f80-e017-11eb-891e-f511f2c60a1f.jpg" height="600"/>
+
+__Episode detsils__
+
+<img src="https://user-images.githubusercontent.com/69635164/124920555-27b56100-e017-11eb-90ff-077ff61978ef.jpg" height="600"/>
+
+__Favourites__
+
+<img src="https://user-images.githubusercontent.com/69635164/124920568-2ab05180-e017-11eb-927a-49018be69a7a.jpg" height="600"/>
+
