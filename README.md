@@ -36,3 +36,7 @@ API: https://www.tvmaze.com/api
 
 <img src="https://user-images.githubusercontent.com/69635164/124920568-2ab05180-e017-11eb-927a-49018be69a7a.jpg" height="600"/>
 
+## Demo
+
+![Screen_Recording_20210727-194748](https://user-images.githubusercontent.com/69635164/127170863-5655d18a-3c51-4c6c-b493-2437f59540ac.gif)
+
